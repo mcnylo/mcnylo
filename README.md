@@ -1,10 +1,10 @@
-<h1>Hey there! I'm Michael 🍻</h1>
+<h1>Michael McNiel (a.k.a McNylo)</h1>
 
 <div>
     <img align="left" src="cat.gif" alt="GIF of a cat on a computer" width="250" />
-    <h3> About Me ℹ️ </h3>
+    <h3> About Me </h3>
     <p>
-        I’m a Software Developer who enjoys building and improving backend systems using C#/.NET and SQL Server. Much of my work involves maintaining and modernizing legacy applications, solving complex problems, and making systems more reliable and efficient. Outside of my day-to-day work, I’m particularly interested in low-level programming and continue to explore C/C++ to deepen my understanding of how software works at its core.
+        I’m a full-stack software developer currently maintaining and creating internal software and websites using C#, .NET, and SQL Server. I usually build lower level projects in my free time using C/C++ which is where my main interest lies.
     </p>
 </div>
 
